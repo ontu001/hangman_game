@@ -1,1 +1,1 @@
-"# hangman_game" 
+In this code, the hangman function implements the game logic for Hangman. The game word is passed as an argument to the function. The game starts with a blank word represented by underscores, and the player has to guess the letters one by one. If the player's guess is correct, the letter is filled in its place in the word, otherwise, a part of a stick figure is drawn as a penalty. The game continues until the player has correctly filled in all the letters or made too many incorrect guesses and the stick figure is fully drawn.
